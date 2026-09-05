@@ -1,3 +1,10 @@
-# hello-word
-Feito para praticar o repositório do GitHub,
-começando do 0 nesse mundo, então vai ver alguém sem experiência nenhuma tentando programar, mas um dia via ter uma galeria de códigos por aqui.
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <h1 color=yellow>Hello, world!</h1>
+    <p>Olá! Este é meu primeiro repositório usando o marcador HTML, em breve mais projetos com C e Java!</p>
+  </body>
+</html>
